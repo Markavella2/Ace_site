@@ -3360,3 +3360,7 @@ input, select, textarea {
 	.fa-instagram{
 		color: rgb(5, 216, 188);
 	}
+
+	.fa-check, .fa-chart-bar{
+		color: rgba(255,46,23,255);
+	}
