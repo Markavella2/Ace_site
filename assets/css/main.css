@@ -2327,7 +2327,8 @@ input, select, textarea {
 		}
 
 			#header h1 span {
-				font-weight: 300;
+				font-weight: 600;
+				
 			}
 
 		#header nav {
@@ -2701,6 +2702,10 @@ input, select, textarea {
 	@media screen and (max-width: 1280px) {
 
 		/* Basic */
+			/* h1{
+				color: rgba(255,46,23,255);
+			} */
+
 
 			body, input, select, textarea {
 				font-size: 13pt;
@@ -3346,4 +3351,12 @@ input, select, textarea {
 				height: 34px;
 			}
 
+	}
+
+	/* .icon{
+		color: red;
+	} */
+
+	.fa-instagram{
+		color: rgb(5, 216, 188);
 	}
